@@ -1,0 +1,13 @@
+{
+    "name": "part-1",
+    "version": "0.1.0",
+    "description": "Advent 2018 December 3rd Part 1",
+    "main": "main.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Julian Webb",
+    "license": "MIT"
+  }
+  
